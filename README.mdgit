@@ -1,0 +1,1 @@
+"# Orderlytics---Daily-Sales-Dashboard"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/ameya241/Orderlytics---Daily-Sales-Dashboard.gitgit push -u origin main
